@@ -1,4 +1,4 @@
-# Ansible AWX Inventory
+# Ansible AWX Inventory GIT Sourced
 
 ## Variables required
 
@@ -28,5 +28,7 @@ auth_pass=cisco
 AWX project configuration
 
 ![image](/assets/images/project.jpg)
+
+AWX Inventory configuration
 
 ![image](/assets/images/inventory.jpg)
