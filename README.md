@@ -25,4 +25,4 @@ auth_pass=cisco
 
 ## AWX Configuration
 
-![alt text](https://ibb.co/V9pYrhJ)
+![image](/assets/images/project.jpg)
