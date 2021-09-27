@@ -25,4 +25,8 @@ auth_pass=cisco
 
 ## AWX Configuration
 
+AWX project configuration
+
 ![image](/assets/images/project.jpg)
+
+![image](/assets/images/inventory.jpg)
