@@ -4,13 +4,13 @@
 
 - `ansible_ssh_common_args='-o StrictHostKeyChecking=no'`: Disable host key checking in the lab 
 
+Example host file
 
 ```yaml
 [ios]
 
 R1 ansible_host=192.168.1.93
 R2 ansible_host=192.168.1.72
-..........
 
 [ios:vars]
 
